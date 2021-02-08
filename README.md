@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning master of business administration with a focus on business analytics at the University of New Brunswick
 - 👯 Technical Skills: R, SQL, Tableau https://public.tableau.com/profile/tony.xia7580#!/ , SAS 
-- 📫 How to reach me: linkedin.com/in/jiyi-xia-900918 
+- 📫 How to reach me:  linkedin.com/in/jiyi-xia-900918 
